@@ -1,0 +1,14 @@
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:shortcutId="update-logins"
+        android:enabled="true"
+        android:icon="@drawable/baseline_login_24"
+        android:shortcutShortLabel="@string/update_logins"
+        android:shortcutLongLabel="@string/update_logins_long">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetPackage="fr.paragoumba.unice_login"
+            android:targetClass="fr.paragoumba.unice_login.App" />
+    </shortcut>
+</shortcuts>
+  

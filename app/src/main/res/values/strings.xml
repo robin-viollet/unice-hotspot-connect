@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">Unice Login</string>
+    <string name="url" translatable="false">https://t212.wifi.unice.fr:8003/index.php?zone=cp_hotspot</string>
+    <string name="update_logins">Update login</string>
+    <string name="title_activity_main">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="button_update">Update</string>
+    <string name="username">Username</string>
+    <string name="default_login">vr107026</string>
+    <string name="password">Password</string>
+    <string name="update_logins_long">Update the saved logins</string>
+</resources>

@@ -1,0 +1,7 @@
+# Unice Login app
+This is useful to connect to the Unice Hotspot wifi of the UCA university without opening a web browser.
+
+This first version is the first working version. It doesn't save the credentials (but support
+password manager auto-completion) and one-tap connect (if the app saved the logins it could auto-connect on launch).
+
+This app is provided as-is as a proof of concept. It is not expected to work nor to be secure and isn't endorsed by the UCA.
